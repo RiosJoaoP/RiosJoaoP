@@ -14,40 +14,65 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=000000&style=flat&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-paulo-rios-434538181/)
-[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=000000&style=flat&logo=twitter)](https://twitter.com/_JohnRios_)
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-rios-434538181/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/_JohnRios_"><img alt="Twitter" src="https://img.shields.io/badge/__JohnRios__%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 ## Skills
 
 **Languages**
 
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=000000&style=flat&logo=Python)
-![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=000000&style=flat&logo=Javascript)
-![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)
-![Verilog](https://img.shields.io/static/v1?label=&message=Verilog&color=000000&style=flat)
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>   
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+
+<img alt="Verilog" src="https://img.shields.io/badge/Verilog%20-%300003C?style=for-the-badge"/>   
+
+
 
 **Front-end**
 
-![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=000000&style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=000000&style=flat&logo=CSS3)
-![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=000000&style=flat&logo=jQuery)
-![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=000000&style=flat&logo=Bootstrap)
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
+
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 
 **Technologies**
 
 
-![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=000000&style=flat&logo=Node.js)
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=000000&style=flat&logo=Pandas)
-![Numpy](https://img.shields.io/static/v1?label=&message=Numpy&color=000000&style=flat&logo=Numpy)
-![scikit-learn](https://img.shields.io/static/v1?label=&message=scikit-learn&color=000000&style=flat&logo=scikit-learn)
+<img alt="Cypress" src="https://img.shields.io/badge/cypress%20-%23000099.svg?&style=for-the-badge&logo=cypress&logoColor=white" />
+
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn%20-%23000000.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 **Tools**
 
-![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=000000&style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/static/v1?label=&message=Git&color=000000&style=flat&logo=git)
-![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=000000&style=flat&logo=github)
-![Slack](https://img.shields.io/static/v1?label=&message=Slack&color=000000&style=flat&logo=slack)
+<img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-%23000099.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
+
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 
 ## 
