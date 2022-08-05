@@ -6,7 +6,7 @@
 
 :office: **Front-End Developer at [Maoni](https://maoni.co.uk/)**
 
-:microscope: **Scientific Initiation Researcher - Ontologies and Health** 
+:microscope: **Scientific Initiation Researcher - Development of Ontologies focusing on COVID-19** 
 
 :computer: **Experience with team/project management and Scrum**
 
