@@ -45,6 +45,10 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RiosJoaoP&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 
 
+**My Card**
+
+<a href="https://app.daily.dev/RiosJoaoP"><img src="https://api.daily.dev/devcards/f3d9e8f3ea5e4419b367c71381e8b98e.png?r=5c5" width="400" alt="João Paulo Rios's Dev Card"/></a>
+
 ###### “When you plan something well, there’s no need to rush.”
 
 
