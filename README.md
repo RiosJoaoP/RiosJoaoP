@@ -83,4 +83,10 @@
 
 My part on this project focuses on developing a **Data Acquisition System (DAQ)** for injection molding machines using microcontrollers and industrial sensors, such as thermocouples, load cells and extensometers.  This DAQ system will provide real-time data on the injection molding process, that, allied to machine learning and optimization algorithms, will facilitate cost reduction efforts.
 
+## My Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiosJoaoP/RiosJoaoP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiosJoaoP/RiosJoaoP/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RiosJoaoP/RiosJoaoP/output/github-contribution-grid-snake.svg">
+</picture>
